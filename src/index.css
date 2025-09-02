@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@300;400;700&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f8fafc;
+  overflow-x: hidden;
+}
+
+body.dark {
+  background: #1e293b;
+}
+
+#root {
+  min-height: 100vh;
+}
